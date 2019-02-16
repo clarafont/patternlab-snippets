@@ -1,0 +1,57 @@
+.container__article--list {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 30px;
+  grid-gap: 40px;
+}
+
+
+.block-info-auteur {
+    display: inline-grid;
+    align-self: center;
+}
+
+.block-info-auteur .hd-titre-4 {
+  position : relative;
+  &::after {
+    content: '';
+    display: block;
+    height:8px;
+    background-color: $mc--med-1;
+    border-radius: 15px;
+    width : 20px;
+    float: right;
+    margin-top: 15px;
+    margin-left: 10px;
+  }
+}
+
+.block-auteur-article {
+  display: inline-flex;
+}
+
+.block-auteur-article img {
+max-height: 270px;
+}
+.typo-auteur {
+  font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+  color: $nc--50;
+  font-size: 50px;
+  margin: 0;
+}
+.fleche-auteur img {
+  margin-left: -40px;
+}
+.fleche-auteur {
+    align-self: center;
+    display: inline-grid;
+}
+.typo-manuscrite {
+  font-family: 'Caveat', cursive;
+  color: $mc--med-3;
+  font-size: 35px;
+  margin: 0;
+  transform: rotate(-2deg);
+
+}

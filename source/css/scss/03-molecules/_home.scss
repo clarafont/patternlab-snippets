@@ -1,0 +1,29 @@
+.block-intro {
+  width: 360px;
+}
+
+.block-intro #fleche {
+  width: 20px;
+}
+
+.block-intro h4 {
+  margin-top: 20px;
+}
+.filtres-classement p {
+  color: $nc--30;
+  padding-left: 16px;
+}
+
+.block-auteur img {
+
+}
+
+.block-auteur {
+  display: inline-flex;
+}
+
+.block-auteur h2{
+  display: inline-grid;
+align-self: center;
+margin-left: -80px;
+}

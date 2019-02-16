@@ -1,0 +1,19 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+</style>
+
+
+<div class="block-plan">
+  <div class="title">
+    <span class="hd-titre">{{content-titre}}</span></br >
+    <span class="hd-titre">{{content-titre-2}}</span>
+  </div>
+  <span class="hd-legende">{{content-line-1}}</span></br >
+  <span class="hd-legende">{{content-line-2}}</span>
+<ul class="liste-plan">
+{{#boucle}}
+<li><a href="{{link-plan-article}}" class="item-article hd-titre-3">{{item-article}}</a></li>
+{{/boucle}}
+</ul>
+
+</div>

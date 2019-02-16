@@ -1,0 +1,24 @@
+{
+  "btn-class" : "btn-nav",
+  "btn-link" : "#",
+  "btn-content" : "Suivant >",
+
+  "photo-link": "../../images/aurelien.png",
+
+  "titre" : "Romain Pasdeloup",
+  "titre-2" : "Web Designer",
+  "paragraphe" : "You have just invested in a new vehicle, the one of your dreams, and you take it on a trip across Canada. You only put gas in it and drive sightseeing and following your nose. Filters and oil changes are ignored. Just like the family vehicle, your business computer systems require regular maintenance to ensure optimum system performance and uptime to prevent productivity losses. ",
+  "titre-6" : "www.siteperso.fr",
+  "content-link":"Contactez moi",
+  "link-icone-contact": "../../images/enveloppe.png",
+
+  "link-icone1" : "../../images/twitter.svg",
+  "link-icone2" : "../../images/instagram.svg",
+  "link-icone3" : "../../images/linkedin.svg",
+  "link-icone4" : "../../images/dribbble.svg",
+  "link-icone5" : "../../images/behance.svg",
+
+  "titre-3" : "Dossiers.",
+  "titre-h2" : "Display types, floats et positionning",
+  "paragraphe-date" : "12.10.2018"
+}

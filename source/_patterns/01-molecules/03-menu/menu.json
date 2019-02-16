@@ -1,0 +1,16 @@
+{
+  "loopLinkMenu" : [
+    {
+      "menu-class" : "",
+      "content" : "Accueil"
+    },
+    {
+      "menu-class" : "",
+      "content" : "Dossiers"
+    },
+    {
+      "menu-class" : "",
+      "content" : "Equipe"
+    }
+  ]
+}

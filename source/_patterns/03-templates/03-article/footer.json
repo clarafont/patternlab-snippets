@@ -1,0 +1,14 @@
+{
+  "titre-4" : "Cet article vous a aidé?",
+  "link-like": "../../images/pouce-like.svg",
+  "link-unlike": "../../images/pouce-unlike.svg",
+  "btn-class" : "",
+  "btn-link" : "#",
+  "btn-content" : "Partager",
+  "content-auteur-prenom":"Aurélien",
+  "content-auteur-nom":"Tardieu",
+"content-auteur-metier":"Web Designer",
+  "photo-link": "../../images/aurelien.png",
+  "link-fleche":"../../images/fleche-auteur.svg",
+  "content-auteur-2":"L'auteur"
+}

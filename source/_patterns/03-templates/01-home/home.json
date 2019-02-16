@@ -1,0 +1,184 @@
+
+{ "loopLinkMenu" : [
+  {
+    "menu-class" : "",
+    "content" : "Accueil"
+  },
+  {
+    "menu-class" : "",
+    "content" : "Dossiers"
+  },
+  {
+    "menu-class" : "",
+    "content" : "Equipe"
+  }
+],
+  "paragraphe" : "Bienvenue au coeur de la CSS ! Ici vous trouverez de nombreux dossiers traitant de différents aspect du language html / css.
+Ce site est le fruit du travail collaboratif de plusieurs étudiants en design interactif à l’ECV Bordeaux",
+  "titre-4" : "DÉCOUVREZ TOUS LES ARTICLES !",
+  "recherche" : "Rechercher un sujet",
+  "titre" : "Dossiers",
+  "boucle2" : [
+    {
+    "btn-class" : "",
+    "btn-link" : "#",
+    "btn-content" : "Popularité"
+    },
+    {
+      "btn-class" : "",
+      "btn-link" : "#",
+      "btn-content" : "Date"
+    },
+    {
+      "btn-class" : "",
+      "btn-link" : "#",
+      "btn-content" : "Complexité"
+    }
+  ],
+  "boucle" : [
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    },
+    {
+      "link--article": "",
+      "miniature-article" : "",
+      "initiales" : "Dt",
+      "link-photo": "../../images/fond_miniatures.png",
+      "name-article": "Typography and Font",
+      "name-author": "Aurélien Tardieu -",
+      "date-article": "15.02.2019"
+    }
+  ]
+}

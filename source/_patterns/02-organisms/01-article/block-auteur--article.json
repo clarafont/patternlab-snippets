@@ -1,0 +1,9 @@
+{
+  "content-auteur-prenom":"Aurélien",
+  "content-auteur-nom":"Tardieu",
+"content-auteur-metier":"Web Designer",
+  "photo-link": "../../images/aurelien.png",
+  "link-fleche":"../../images/fleche-auteur.svg",
+  "content-auteur-2":"L'auteur"
+
+}

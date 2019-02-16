@@ -1,0 +1,28 @@
+{
+  "content-titre" : "Typography",
+  "content-titre-2" : "and Font",
+  "content-line-1": "Dossier n°12 . Date : 20.08.18",
+  "content-line-2" : "789 lectures . 120 appréciations",
+  "boucle" : [
+    {
+      "link-plan-article": "",
+      "item-article" : "Introduction"
+    },
+    {
+      "link-plan-article": "",
+      "item-article" : "Choisir une typographie"
+    },
+    {
+      "link-plan-article": "",
+      "item-article" : "Google font"
+    },
+    {
+      "link-plan-article": "",
+      "item-article" : "CSS"
+    },
+    {
+      "link-plan-article": "",
+      "item-article" : "Exemples"
+    }
+]
+}

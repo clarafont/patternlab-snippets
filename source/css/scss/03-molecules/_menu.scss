@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+.menu {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 27px;
+  color: $nc--20;
+  cursor: pointer;
+  a {
+    color: $nc--20 ;
+    position: relative;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    &::after {
+      content: '';
+      display: block;
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      width: 0;
+      transform: translateX(-50%);
+      height:8px;
+      background-color: $mc--med-1;
+      -webkit-border-radius:100px;
+      -moz-border-radius:100px;
+      -o-border-radius:100px;
+      border-radius:100px;
+      transition: all .3s ease;
+    }
+    &:hover {
+      &:after {
+        width: 50%;
+        transition: all .3s ease;
+      }
+    }
+  }
+}
+
+.rect-form-menu {
+  display: block;
+  width: 58px;
+  height: 8px;
+  border-radius: 15px;
+  background-color: $mc--med-1;
+}

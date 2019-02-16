@@ -1,0 +1,67 @@
+.rect-bio{
+  display: inline-flex;
+  height: 7px;
+  width: 260px;
+  background-color: $mc--med-1;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+#block-bio .hd-titre-2 {
+  display: inline-flex;
+}
+
+#block-bio p {
+  margin-top: 10px;
+}
+
+#block-bio h6 {
+    margin-top: 10px;
+      color: $mc--med-1;
+}
+
+#block-bio h1 {
+    color: $mc--med-1;
+}
+
+
+
+.rect-form-dossiers {
+  width: 8px;
+  height: auto;
+  border-radius: 15px;
+  background-color: $mc--med-1;
+
+}
+
+.info-dossiers {
+  display: inline-flex;
+  margin-top: 20px;
+}
+
+.donnees-dossiers {
+display: inline-grid;
+margin-left: 10px;
+width: 320px;
+
+}
+
+.icone {
+  padding: 10px;
+}
+#block-reseaux {
+  display: inline-grid;
+}
+
+.bouton-contact {
+  display: inline-flex;
+}
+.bouton-contact h4 {
+  align-self: center;
+  color: $mc--med-1 ;
+  padding: 10px;
+}
+
+.contact-img {
+  height: 50px;
+}

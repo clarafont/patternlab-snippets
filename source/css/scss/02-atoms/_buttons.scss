@@ -1,0 +1,44 @@
+.btn {
+  text-decoration: none;
+}
+
+.btn--primary {
+  width: 255px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 37px;
+  background-color: $mc--med-3;
+  padding: 8px 16px;
+  border-radius: 16px;
+  color: $nc--00;
+  transition: $tr--s;
+  &:hover {
+    background-color: $mc--med-4;
+    color: $nc--00;
+
+  }
+}
+
+.btn--navigation {
+  color: $nc--100;
+  font-size: 28px;
+  font-weight: bold;
+  transition: $tr--s;
+  &:hover {
+  background-color: transparent;
+  color: $mc--med;
+  }
+}
+
+.btn--filtre {
+
+ color: $nc--50;
+  border-radius : 8px;
+  padding: 8px 16px;
+  transition: $tr--s;
+  &:hover {
+  background-color: $nc--50;
+  color: $mc--med-1;
+
+  }
+}

@@ -1,0 +1,19 @@
+
+{
+  "boucle2" : [
+  {
+  "btn-class" : "",
+  "btn-link" : "#",
+  "btn-content" : "Popularité"
+},
+{
+  "btn-class" : "",
+  "btn-link" : "#",
+  "btn-content" : "Date"
+},
+{
+  "btn-class" : "",
+  "btn-link" : "#",
+  "btn-content" : "Complexité"
+}  ]
+ }

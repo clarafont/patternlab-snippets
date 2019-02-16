@@ -1,0 +1,75 @@
+
+
+.hd-titre {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  color: $nc--50;
+  font-size: 70px;
+  margin: 0;
+}
+
+.hd-titre-2 {
+  font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+  color: $nc--50;
+  font-size: 27px;
+  margin: 0;
+}
+
+.hd-titre-3 {
+  font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+  color: $nc--50;
+  font-size: 37px;
+  margin: 0;
+}
+
+.hd-titre-4 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: $nc--50;
+  font-size: 27px;
+  margin: 0;
+
+}
+
+.hd-titre-6 {
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-style: italic;
+  color: $mc--neutre;
+  font-size: 17px;
+  margin: 0;
+}
+.hd-p {
+  font-family: 'Quattrocento Sans', sans-serif;
+  color: $mc--neutre;
+  font-size: 19px;
+  margin: 0;
+}
+
+.hd-liste{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: $nc--50;
+  font-size: 20px;
+  line-height: 53px;
+    margin : 0;
+}
+
+.hd-legende{
+  font-family: 'courier-std', monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: $mc--neutre;
+  font-size: 15px;
+  margin: 0;
+}
+
+.hd-recherche {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: $nc--20;
+  font-size: 52px;
+    margin : 0;
+    opacity: 0.3;
+}
