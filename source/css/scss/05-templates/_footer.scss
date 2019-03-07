@@ -1,0 +1,27 @@
+.footer {
+  background-color: $nc--40 ;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-columns: auto auto;
+
+}
+
+.btn--partager {
+display: flex;
+grid-column: 1;
+align-self: flex-start;
+justify-content: center;
+
+}
+
+.picto-like {
+  margin: 30px;
+  align-self: flex-end;
+  justify-content: center;
+}
+
+.block-auteur-article {
+  grid-row: 1/3;
+  grid-column: 2;
+
+}

@@ -1,5 +1,14 @@
 .block-plan {
+position : relative;
 margin-left: 60px;
+&::after {
+  content: '';
+  display: block;
+  border: $nc--30 solid 1.8px;
+  opacity: 0.3;
+  transform: rotate(90deg);
+
+}
 }
 
 
@@ -33,7 +42,6 @@ margin-left: 60px;
     content: '';
     display: inline-flex;
     float: left;
-
     background-color: $mc--med-1;
     border-radius: 15px;
     width : 7px;

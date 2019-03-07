@@ -1,6 +1,8 @@
 {
   "titre-4" : "Cet article vous a aidé?",
+  "link--like": "",
   "link-like": "../../images/pouce-like.svg",
+  "link--unlike": "",
   "link-unlike": "../../images/pouce-unlike.svg",
   "btn-class" : "",
   "btn-link" : "#",

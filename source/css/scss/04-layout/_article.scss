@@ -5,7 +5,6 @@
   grid-gap: 40px;
 }
 
-
 .block-info-auteur {
     display: inline-grid;
     align-self: center;
@@ -54,4 +53,8 @@ max-height: 270px;
   margin: 0;
   transform: rotate(-2deg);
 
+}
+
+.block-text-article p {
+  margin-top: 20px;
 }

@@ -20,9 +20,12 @@
 @import '03-molecules/profil.scss';
 
 ///// ORGANISMS /////
-@import '04-organisms/article.scss';
+@import '04-layout/article.scss';
+@import '04-layout/header.scss';
+@import '04-layout/hero.scss';
 
 ///// TEMPLATES /////
 @import '05-templates/home.scss';
 @import '05-templates/profil.scss';
+@import '05-templates/footer.scss';
 @import '05-templates/article.scss';

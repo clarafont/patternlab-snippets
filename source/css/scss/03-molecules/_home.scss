@@ -1,5 +1,8 @@
 .block-intro {
-  width: 360px;
+  max-width: 21.5em;
+  padding: 1em;
+  background: rgba(255, 255, 255, 0.7);
+
 }
 
 .block-intro #fleche {
@@ -7,8 +10,15 @@
 }
 
 .block-intro h4 {
-  margin-top: 20px;
+  margin-top: 1.25em;
 }
+
+.link--fleche {
+  display: block;
+  margin: 1.25em auto;
+  width: 40px;
+}
+
 .filtres-classement p {
   color: $nc--30;
   padding-left: 16px;

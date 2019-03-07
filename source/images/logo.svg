@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="286px" height="54px" viewBox="0 0 286 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
+        <g id="Header" transform="translate(-27.000000, -15.000000)">
+            <g id="Group">
+                <text id="WIKIWEB." font-family="Helvetica" font-size="62">
+                    <tspan x="26.112793" y="60" fill="#424242">WIKI</tspan>
+                    <tspan x="160.436035" y="60" fill="#5FE5FF">WEB.</tspan>
+                </text>
+                <text id="House-of-CSS-secrets" font-family="Courier" font-size="17" fill="#413B2A">
+                    <tspan x="70.4833984" y="68">House of CSS secrets</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

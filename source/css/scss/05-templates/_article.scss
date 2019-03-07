@@ -1,3 +1,6 @@
-.footer {
-  background-color: $nc--40 ;
+.article--plan {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 80px;
+  grid-gap: 90px;
 }

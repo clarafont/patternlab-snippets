@@ -1,18 +1,27 @@
 
-{ "loopLinkMenu" : [
-  {
-    "menu-class" : "",
-    "content" : "Accueil"
-  },
-  {
-    "menu-class" : "",
-    "content" : "Dossiers"
-  },
-  {
-    "menu-class" : "",
-    "content" : "Equipe"
-  }
-],
+{
+  "paragraphe" : "Bienvenue au coeur de la CSS ! Ici vous trouverez de nombreux dossiers traitant de différents aspect du language html / css.
+Ce site est le fruit du travail collaboratif de plusieurs étudiants en design interactif à l’ECV Bordeaux",
+  "titre-4" : "DÉCOUVREZ TOUS LES ARTICLES !",
+  "link--fleche": ,
+  "fleche-link": "../../images/fleche.svg",
+
+
+   "loopLinkMenu" : [
+    {
+      "menu-class" : "",
+      "content" : "Accueil"
+    },
+    {
+      "menu-class" : "",
+      "content" : "Dossiers"
+    },
+    {
+      "menu-class" : "",
+      "content" : "Equipe"
+    }
+  ],
+    "illu-link": "../../images/illu_accueil.png",
   "paragraphe" : "Bienvenue au coeur de la CSS ! Ici vous trouverez de nombreux dossiers traitant de différents aspect du language html / css.
 Ce site est le fruit du travail collaboratif de plusieurs étudiants en design interactif à l’ECV Bordeaux",
   "titre-4" : "DÉCOUVREZ TOUS LES ARTICLES !",
