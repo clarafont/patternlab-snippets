@@ -1,67 +1,82 @@
 {
 "bouclephoto" : [
-
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/romain_01.png",
+  "photo-link-hover": "../../images/romain_02.png",
 "prenom" : "Romain",
 "nom" : "Pasdeloup"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/clara_01.png",
+  "photo-link-hover": "../../images/clara_02.png",
 "prenom" : "Clara",
 "nom" : "Fontenier"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/kemi_01.png",
+  "photo-link-hover": "../../images/kemi_02.png",
 "prenom" : "Kémi",
 "nom" : "Likouka"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/aurelien_01.png",
+  "photo-link-hover": "../../images/aurelien_02.png",
 "prenom" : "Aurélien",
 "nom" : "Tardieu"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/xinyi_01.png",
+  "photo-link-hover": "../../images/xinyi_02.png",
 "prenom" : "Xinyi",
 "nom" : "Dong"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/deborah_01.png",
+  "photo-link-hover": "../../images/deborah_02.png",
 "prenom" : "Déborah",
 "nom" : "Doquin"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/gabirelle_01.png",
+  "photo-link-hover": "../../images/gabirelle_02.png",
 "prenom" : "Gabirelle",
 "nom" : "Vuillaumé"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/lisa_01.png",
+  "photo-link-hover": "../../images/lisa_02.png",
 "prenom" : "Lisa",
 "nom" : "Mercier"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/mathilde_01.png",
+  "photo-link-hover": "../../images/mathilde_02.png",
 "prenom" : "Mathilde",
 "nom" : "Robert"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/laura_01.png",
+  "photo-link-hover": "../../images/laura_02.png",
 "prenom" : "Laura",
 "nom" : "De la Torre"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/laurendia_01.png",
+  "photo-link-hover": "../../images/laurendia_02.png",
 "prenom" : "Laurendia",
 "nom" : "Laphaille"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/manon_01.png",
+  "photo-link-hover": "../../images/manon_02.png",
 "prenom" : "Manon",
 "nom" : "Martignac"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/melanie_01.png",
+  "photo-link-hover": "../../images/melanie_02.png",
 "prenom" : "Mélanie",
 "nom" : "Pourrin"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/camille_01.png",
+  "photo-link-hover": "../../images/camille_02.png",
 "prenom" : "Camille",
 "nom" : "Chevalier"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/pierre_01.png",
+  "photo-link-hover": "../../images/pierre_02.png",
 "prenom" : "Pierre",
 "nom" : "Nkwane"
 },
-{ "photo-link": "../../images/aurelien.png",
+{ "photo-link": "../../images/jean_01.png",
+  "photo-link-hover": "../../images/jean_02.png",
 "prenom" : "Jean",
 "nom" : "Baratto"
 },

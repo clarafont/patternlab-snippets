@@ -1,7 +1,7 @@
 {
   "btn-class" : "btn-nav",
   "btn-link" : "#",
-  "btn-content" : "Suivant >",
+  "btn-content" : "Précédent >",
 
   "photo-link": "../../images/aurelien.png",
 
@@ -18,7 +18,14 @@
   "link-icone4" : "../../images/dribbble.svg",
   "link-icone5" : "../../images/behance.svg",
 
+
+    "btn-class-2" : "btn-nav--2",
+    "btn-link-2" : "#",
+    "btn-content-2" : "Suivant >",
+
+
   "titre-3" : "Dossiers.",
   "titre-h2" : "Display types, floats et positionning",
   "paragraphe-date" : "12.10.2018"
+
 }

@@ -40,10 +40,11 @@ ul{
 
 a{
   color: $mc--med;
-  transition: $tr--s;
-  &:hover{
-    color: lighten($mc--med, 20%);
-  }
+    transition: $tr--s;
+    text-decoration: none;
+    &:hover{
+      color: lighten($mc--med, 20%);
+    }
 }
 
 strong{

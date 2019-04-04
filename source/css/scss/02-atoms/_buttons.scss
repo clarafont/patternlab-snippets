@@ -3,14 +3,12 @@
 }
 
 .btn--primary {
-  width: 255px;
-  height: 63px;
   align-self: center;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   font-size: 37px;
   background-color: $mc--med-3;
-  padding: 8px 16px;
+  padding: 2px 35px;
   border-radius: 16px;
   color: $nc--00;
   transition: $tr--s;
@@ -31,7 +29,17 @@
   color: $mc--med;
   }
 }
-
+.btn-nav--2{
+  text-decoration: none;
+  color: $nc--100;
+  font-size: 28px;
+  font-weight: bold;
+  transition: $tr--s;
+  &:hover {
+  background-color: transparent;
+  color: $mc--med;
+}
+}
 .btn--filtre {
 
  color: $nc--50;

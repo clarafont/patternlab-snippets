@@ -1,9 +1,44 @@
 .main-profil {
   display: grid;
-  grid-template-columns: 1fr 2fr 3fr 1fr;
-
+  grid-template-columns: 0.5fr 2fr 3fr 0.5fr;
+  grid-gap: 20px;
 }
-
+.main-profil .btn-nav{
+  grid-column: 1;
+  grid-row: 1;
+  z-index: 1;
+}
+.main-profil .photo-profil{
+  grid-column: 2;
+  grid-row: 1;
+  width: 100%;
+}
+.block--bio{
+  grid-column: 3;
+  grid-row: 1;
+}
 .main-profil .btn-nav {
 writing-mode: vertical-lr;
 }
+.main-profil .btn-nav--2 {
+writing-mode: vertical-lr;
+}
+.main-profil .photo-profil{
+  padding: 10px;
+  float: left;
+  grid-column: 1/3;
+  grid-row: 1;
+  align-items: 1;
+}
+.main-profil .bouton-contact{
+  display: flex;
+  grid-column: 3;
+  margin-top: 2em;
+}
+.main-profil .block--dossier {
+  grid-column: 2;
+  grid-row: 2;
+}
+.block--nav {
+grid-column: 4;
+grid-row: 1;}

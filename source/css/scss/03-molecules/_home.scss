@@ -1,39 +1,43 @@
 .block-intro {
   max-width: 21.5em;
   padding: 1em;
+  padding-top: 10%;
   background: rgba(255, 255, 255, 0.7);
-
 }
-
 .block-intro #fleche {
   width: 20px;
 }
-
 .block-intro h4 {
   margin-top: 1.25em;
 }
-
 .link--fleche {
   display: block;
   margin: 1.25em auto;
   width: 40px;
 }
-
 .filtres-classement p {
   color: $nc--30;
   padding-left: 16px;
 }
-
 .block-auteur img {
-
+  max-width: 235px;
+  max-height: 248px;
 }
-
 .block-auteur {
-  display: inline-flex;
+ width:270px;
+ margin: 10px;
 }
-
 .block-auteur h2{
+  position: absolute;
   display: inline-grid;
-align-self: center;
-margin-left: -80px;
+  margin-left: -60px;
+}
+@media screen and (max-width: 320px){
+  .block-auteur h2{
+    margin-left: -25px;
+  }
+  .block-auteur img{
+        max-width: 141px;
+        max-height: 148.8px;
+  }
 }

@@ -1,9 +1,9 @@
 .container__article--list {
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  grid-gap: 30px;
-  grid-gap: 40px;
-}
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
+ grid-gap: 50px;
+ justify-items: center;
+ }
 
 .block-info-auteur {
     display: inline-grid;
